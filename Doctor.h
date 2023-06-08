@@ -1,10 +1,3 @@
-/*
- * Proyecto Ficha_Med
- * Francisco Rafael Arreola Corona
- * A01706242
- * 02/12/22
- */
-
 /**
  * Este proyecto es un programa que le ayuda a un doctor
  * Ingresando los datos básicos del paciente para poder crear 
